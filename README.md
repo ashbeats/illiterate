@@ -14,4 +14,4 @@ The first instinct is to create a set of icons. But that may be the lowest hangi
 
 More research is needed. 
 
-The final goal is an app that can be used by **anyone** when all the text is removed. 
+**The final goal is an app that can still be used well, when all the text is removed. **
