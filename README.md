@@ -17,7 +17,7 @@ The final goal is an app that can still __be used__, __when all ui text is remov
 
   Can an app like paypal, youtube, etc exist without text? 
   
-User clicks --> Ultra simple mode -> All text is removed and this ui recommendations will be applied. 
+  User clicks --> Ultra simple mode -> All text is removed and this ui recommendations will be applied. 
 
 #### More research is needed. 
 
