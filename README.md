@@ -12,7 +12,7 @@ mobile ux flows.
 
 The first instinct is to create a set of icons. But that may be the lowest hanging fruit. 
 
-The final goal is an app that can still __be used__, __when all the text is removed.__
+The final goal is an app that can still __be used__, __when all ui text is removed.__
 
 
 
