@@ -16,8 +16,9 @@ The first instinct is to create a set of icons. But that may be the lowest hangi
 
 
 
-More research is needed. So let's chat here: 
+#### More research is needed. 
 
+So let's chat here: 
 https://github.com/ashbeats/illiterate/projects/1
 
 
